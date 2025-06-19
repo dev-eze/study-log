@@ -9,4 +9,4 @@
 ---
 
 ## 🧠 Database
-- [정규화 정리 (2025-06-19)](/normalization)
+- [정규화 정리 (2025-06-19)](/study-log/normalization)
