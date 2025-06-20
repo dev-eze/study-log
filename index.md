@@ -9,7 +9,5 @@
 ####  스터디 로그 페이지 모음입니다.  
 #### 클릭해서 열람 가능합니다.  
 
-## 🗄️ Database
-
 - [정규화 정리 (2025-06-19)](/study-log/normalization)
-- [JPA 1차 캐시 (EntityManager)](/study-log/jpa-first-level-cache)
+- [JPA 1차 캐시, EntityManager (2025-06-20)](/study-log/jpa-first-level-cache)
