@@ -11,3 +11,4 @@
 
 - [정규화 정리 (2025-06-19)](/study-log/normalization)
 - [JPA 1차 캐시, EntityManager (2025-06-20)](/study-log/jpa-first-level-cache)
+- [REST API 데이터 무결성 검증 방법 정리 (2025-06-25)](/study-log/rest-api-data-signature)
