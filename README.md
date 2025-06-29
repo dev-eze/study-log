@@ -7,18 +7,18 @@
 > GitHub Pages에 따로 정리하면 🌱도 심고, 관리 포인트도 GitHub이니 정도 들고 좋은 선택인 것 같다 😏
 
 스터디 로그 페이지 모음입니다. 
-[🤓 보러가기](https://dev-eze.github.io/study-log/)
+[다라미🐿 스터디로그 보러가기](https://dev-eze.github.io/study-log/)
 ---
 
 
 
-### 📦 기술 스택 및 포맷
+####  기술 스택 및 포맷
 - Markdown 기반 정리
 - GitHub Pages + 메모장 마냥 Jekyll 테마 없이 가볍게 운영
 - 주제별 파일로 분리하여 관리
 
 ---
 
-### ✍️ 작성자
+#### ✍️ 작성자
 - **다라미🐿️** 
 
