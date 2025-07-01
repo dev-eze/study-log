@@ -91,7 +91,8 @@
 > 보통이 큐 사이즈를 지정하지않으면 무한 (찾아보고 보충)
 
 
-## 간단 계산
+## 간단 계산 식
+### CPU-바운드 권장
 -   Thread Count ≈ CPU Core × (1 + Wait Time / Service Time)
 
 -   Wait Time 거의 없음 → Thread Count ≈ CPU Core
