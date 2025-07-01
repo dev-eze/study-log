@@ -8,8 +8,15 @@
 ---
 ####  스터디 로그 페이지 모음입니다.  (클릭해서 열람 가능합니다.)
 
+## ⭐️ Database
+- [관계형 데이터 모델 정리 (2025-06-28)](/study-log/database/relational-database)
 - [정규화 정리 (2025-06-19)](/study-log/normalization)
-- [JPA 1차 캐시, EntityManager (2025-06-20)](/study-log/jpa-first-level-cache)
-- [REST API 데이터 무결성 검증 방법 정리 (2025-06-25)](/study-log/rest-api-data-signature)
-- [DDD + 헥사고날 아키텍처의 오해 (2025-06-27)](/study-log/hexagonal-architecture)
 
+## ⭐️ JPA
+- [JPA 1차 캐시, EntityManager (2025-06-20)](/study-log/jpa-first-level-cache)
+
+## ⭐️ API
+- [REST API 데이터 무결성 검증 방법 정리 (2025-06-25)](/study-log/rest-api-data-signature)
+
+## ⭐️ architecture
+- [DDD + 헥사고날 아키텍처의 오해 (2025-06-27)](/study-log/hexagonal-architecture)
