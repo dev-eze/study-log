@@ -74,5 +74,5 @@
 
 
 # 정리
-“Graceful Shutdown은 ‘갑작스러운 서비스 중단 시 인-플라이트 요청을 마무리하고, 리소스를 정리하여 데이터 일관성과 운영 안정성을 확보하는’ 필수 메커니즘입니다.
-이를 위해 로드밸런서 Draining, Spring Boot 내장 graceful 모드, JVM Shutdown Hook, 트랜잭션 타임아웃, 메시지 브로커 정리, Kubernetes preStop 훅 등을 유기적으로 조합하여 구현합니다.
+- “Graceful Shutdown은 ‘갑작스러운 서비스 중단 시 인-플라이트 요청을 마무리하고, 리소스를 정리하여 데이터 일관성과 운영 안정성을 확보하는’ 필수 메커니즘.
+- 이를 위해 로드밸런서 Draining, Spring Boot 내장 graceful 모드, JVM Shutdown Hook, 트랜잭션 타임아웃, 메시지 브로커 정리, Kubernetes preStop 훅 등을 유기적으로 조합하여 구현해서 사용 가능.
