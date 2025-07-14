@@ -2,12 +2,11 @@ JWT: “클레임이 담긴 JSON 토큰”
 JWS: “위 JSON을 서명으로 감싼 컨테이너” → 서명된 JWT = JWS 객체
 
 
-아래 예시는 Nimbus JOSE + JWT 라이브러리(최신 10.2 버전)를 이용해
-
+아래 예시는 Nimbus JOSE + JWT 라이브러리(최신 10.2 버전)를 이용해 아래 2가지 사항을 Spring Boot 3.x 환경에서 구현한 간단한 예제이다. 
 - JWT(=JWS) 서명 발급
 - JWT 검증·디코딩
 
-을 Spring Boot 3.x 환경에서 구현한 간단한 예제이다. 
+
 
 1. 의존성 추가 (Maven / Gradle)
 
